@@ -55,7 +55,7 @@ def get_location_details_from_place_id(place_id, api_key):
     Returns:
         dict: Location details
     """
-    url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={place_id}&fields=name,rating,reviews,formatted_address&key={AIzaSyATw_I-Qfk2jF3rW-qhr5Er9KQ67PjocGo}"
+    url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={place_id}&fields=name,rating,reviews,formatted_address&key={AIzaSyAf8uisdzwWaQF6PxkCFJXCGDWu9tBVwa8}"
     
     try:
         response = requests.get(url)
