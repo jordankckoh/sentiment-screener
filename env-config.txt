@@ -1,5 +1,5 @@
 # OpenAI API Key
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=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
 
 # Google My Business API
 GOOGLE_ACCOUNT_ID=your_google_account_id_here
