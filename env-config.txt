@@ -1,0 +1,10 @@
+# OpenAI API Key
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google My Business API
+GOOGLE_ACCOUNT_ID=your_google_account_id_here
+GOOGLE_LOCATION_ID=your_google_location_id_here
+
+# Optional: Configuration Settings
+# STREAMLIT_SERVER_PORT=8501
+# STREAMLIT_SERVER_HEADLESS=true
